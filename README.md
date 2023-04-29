@@ -1,0 +1,5 @@
+# TP_Freistel_Cipher
+Travail Pt=ratique de sécurité (Algorithme Chiffrement, déchiffrement et génération des clés)
+FRAMEYORCK QUE J'AI UTILISER C'EST NETBEANS IDE 8.2 
+LANGAGE DE PROGRAMMATION UTILISER EST JAVA
+LE PROGRAMME PERMET DE CHRIFREMENT ET DECHIFREMET ET DE GENERATION DES CLES
